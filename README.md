@@ -22,7 +22,7 @@ The second implemented sorting algorithm is selection sort. Selection sort works
 The final implemented sorting algorithm is in it's own file called bucket.c. This file contains bucket sort implemented on an array size n. The way this works is by grouping together all the values within either a certain range, value, property, etc... Once everything is sorted in it's proper grouping, then it is all grouped back together and sorted in the order desired. The average time complexity of bucket sort is O(n + k). An example of bucket sort can be found below. 
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/35609863/61493234-10d85880-a981-11e9-8374-a620391fbaa7.png">
+  <img width="460" height="300" style="color:white" src="https://user-images.githubusercontent.com/35609863/61493312-411ff700-a981-11e9-8a1a-7f65532e6129.png">
 </p>
 
 
